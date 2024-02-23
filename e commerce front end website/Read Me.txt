@@ -1,0 +1,13 @@
+There is a html page named "Shopping" that cant be reached via page links etc.
+
+At my first attempt i tried to make that page fully functional (functional buying buttons and some local storrage stuff)
+
+I made another shopping page later and i didnt wanna remove the whole page from project , so the page still exists yet cant be reached by any links.
+
+In "İndirim Ürünleri" page buttons dont work. I created that page only to figure how to use fetch out. That page is not functional as well.
+
+If you click shopping bag icon up there , you can get the shopping page with functional shopping basket.
+
+And finally , i felt lazy to simply ctrl c + ctrl v some JS codes , which is why some features dont work in some pages(like the guy with sunglasses above the page located on navbar)
+
+It is my first attempt to make an E Commerce website , by the time of progress things will get better.
